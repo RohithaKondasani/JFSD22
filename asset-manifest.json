@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JFSD22/static/css/main.71f9e3bd.css",
+    "main.js": "/JFSD22/static/js/main.b3fbba18.js",
+    "static/js/453.171993e0.chunk.js": "/JFSD22/static/js/453.171993e0.chunk.js",
+    "index.html": "/JFSD22/index.html",
+    "main.71f9e3bd.css.map": "/JFSD22/static/css/main.71f9e3bd.css.map",
+    "main.b3fbba18.js.map": "/JFSD22/static/js/main.b3fbba18.js.map",
+    "453.171993e0.chunk.js.map": "/JFSD22/static/js/453.171993e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f9e3bd.css",
+    "static/js/main.b3fbba18.js"
+  ]
+}
